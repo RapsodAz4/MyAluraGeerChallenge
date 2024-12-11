@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "5cdd",
+      "name": "Mouse Gamer",
+      "price": "15",
+      "image": "https://m.media-amazon.com/images/I/61QY3V6A-NL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "7c09",
+      "name": "Monitor PC",
+      "price": "200",
+      "image": "https://m.media-amazon.com/images/I/81tizzS173L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "8666",
+      "name": "Laptop 12GB RAM",
+      "price": "500",
+      "image": "https://m.media-amazon.com/images/I/71EC7fxgzwL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "2442",
+      "name": "Tablet",
+      "price": "150",
+      "image": "https://m.media-amazon.com/images/I/71-hJGtkLWL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "d980",
+      "name": "Tarjeta gráfica GeForce RTX™ 4060 Ti 8GB XLR8",
+      "price": "379",
+      "image": "https://m.media-amazon.com/images/I/51LziKqKU9L._AC_SL1000_.jpg"
+    },
+    {
+      "id": "18d9",
+      "name": "Tarjeta Grafica",
+      "price": "409",
+      "image": "https://m.media-amazon.com/images/I/71IUNo7LKZL._AC_SL1500_.jpg"
+    }
+  ]
+}
